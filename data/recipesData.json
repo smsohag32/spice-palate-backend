@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "chefId": 1,
+    "recipeName": "Spicy Chicken Curry",
+    "description": "A delicious and spicy chicken curry that is perfect for dinner. This recipe is easy to make and is sure to impress your guests!",
+    "ingredients": [
+      "1 pound boneless, skinless chicken breasts, cut into 1-inch pieces",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tablespoon grated fresh ginger",
+      "2 tablespoons vegetable oil",
+      "1 tablespoon curry powder",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "1/4 teaspoon cayenne pepper",
+      "1 can (14.5 ounces) diced tomatoes, undrained",
+      "1/4 cup chopped fresh cilantro",
+      "Salt and pepper, to taste"
+    ],
+    "cookingSteps": [
+      "Heat the oil in a large skillet over medium-high heat.",
+      "Add the chicken and cook until browned, about 5 minutes.",
+      "Add the onion, garlic, and ginger and cook for 2-3 minutes, until softened.",
+      "Stir in the curry powder, cumin, coriander, and cayenne pepper and cook for 1-2 minutes, until fragrant.",
+      "Add the diced tomatoes and bring to a simmer.",
+      "Reduce the heat to medium-low and simmer for 10-15 minutes, until the chicken is cooked through.",
+      "Stir in the cilantro and season with salt and pepper, to taste.",
+      "Serve hot with rice or naan bread."
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "chefId": 1,
+    "recipeName": "Garlic Shrimp Linguine",
+    "description": "This pasta dish is quick and easy to make, but it tastes like it came from a fancy Italian restaurant. The garlic and shrimp flavors combine perfectly with the linguine noodles.",
+    "ingredients": [
+      "1 pound linguine pasta",
+      "1/2 cup butter",
+      "1/4 cup olive oil",
+      "4 cloves garlic, minced",
+      "1 pound large shrimp, peeled and deveined",
+      "1/2 cup dry white wine",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1/4 cup chopped fresh parsley",
+      "1/4 cup grated Parmesan cheese"
+    ],
+    "cookingSteps": [
+      "Bring a large pot of salted water to a boil.",
+      "Add the linguine and cook according to package directions.",
+      "While the pasta is cooking, melt the butter and olive oil in a large skillet over medium heat.",
+      "Add the garlic and cook for 1-2 minutes, until fragrant.",
+      "Add the shrimp and cook for 2-3 minutes, until pink and cooked through.",
+      "Stir in the white wine, salt, and black pepper and bring to a simmer.",
+      "Cook for 1-2 minutes, until the sauce has thickened slightly.",
+      "Drain the linguine and add it to the skillet with the shrimp and sauce.",
+      "Toss to combine and coat the pasta with the sauce.",
+      "Sprinkle with fresh parsley and Parmesan cheese before serving."
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 1,
+    "recipeName": "Chingri Malai Curry",
+    "chefId": 3,
+    "description": "A creamy and delicious curry made with prawns and coconut milk, perfect for a special occasion.",
+    "ingredients": [
+      "500g prawns",
+      "1 onion",
+      "2 garlic cloves",
+      "1 tsp ginger paste",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1 tsp turmeric powder",
+      "1 tsp red chilli powder",
+      "1 can coconut milk",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "cookingMethod": [
+      "Clean and devein the prawns, and keep aside.",
+      "Heat some oil in a pan and fry the chopped onions until they are translucent.",
+      "Add the ginger paste and garlic, and fry for another minute.",
+      "Add the spices and fry for a few seconds until fragrant.",
+      "Add the prawns and fry for a few minutes until they turn pink.",
+      "Add the coconut milk and salt to taste, and bring to a simmer.",
+      "Cook for another 5-7 minutes until the curry thickens and the prawns are cooked through.",
+      "Garnish with fresh coriander and serve hot with rice."
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "recipeName": "Beef Bhuna",
+    "chefId": 1,
+    "description": "A spicy and flavorful beef curry that is slow-cooked to perfection.",
+    "ingredients": [
+      "1 kg beef, cut into cubes",
+      "2 onions, chopped",
+      "4 garlic cloves, minced",
+      "1 inch ginger, grated",
+      "2 tomatoes, chopped",
+      "1 tbsp cumin powder",
+      "1 tbsp coriander powder",
+      "1 tbsp turmeric powder",
+      "1 tbsp red chilli powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "cookingMethod": [
+      "Heat some oil in a pan and fry the onions until they are golden brown.",
+      "Add the garlic and ginger, and fry for another minute.",
+      "Add the beef and fry for a few minutes until it is browned on all sides.",
+      "Add the spices and fry for a few seconds until fragrant.",
+      "Add the chopped tomatoes and salt to taste, and cook for another few minutes until the tomatoes are soft.",
+      "Transfer the mixture to a slow cooker and cook on low for 6-8 hours.",
+      "Sprinkle with garam masala and serve hot with naan or rice."
+    ],
+    "rating": 4.8
+  }
+]
