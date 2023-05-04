@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "question": "Tell us the differences between uncontrolled and controlled components.",
+    "answer": "Uncontrolled components are form elements that manage their own state internally, without the need for a parent component to manage their state. When an uncontrolled component is rendered, React sets the initial value of the component based on the value attribute. After that, the component's value can be updated independently of React by the user. Controlled components, on the other hand, are form elements that are managed by a parent component. The parent component passes the value of the form element as a prop and also defines a callback function to handle changes to the value.",
+    "author": "sohag"
+  },
+  {
+    "id": 2,
+    "question": "How to validate React props using PropTypes?",
+    "answer": "PropTypes can help catch errors and improve code maintainability by documenting what props a component expects and providing warnings if an unexpected prop type or shape is passed. By using PropTypes, you can ensure that your components receive the correct props and catch errors early in development. To use PropTypes, first import it from the prop-types package. Then, define the PropTypes for each prop that the component expects by adding a propTypes object to the component.",
+    "author": "sohag"
+  },
+  {
+    "id": 3,
+    "question": "Tell us the difference between nodejs and express js.",
+    "answer": "NodeJS is an event-driven, non-blocking I/O model using JavaScript as its main language. It helps to build scalable network applications. Express is a minimal and flexible Node. js web application framework that provides a robust set of features for web and mobile applications.",
+    "author": "sohag"
+  },
+  {
+    "id": 4,
+    "question": "What is a custom hook, and why will you create a custom hook?",
+    "answer": "A custom hook is a function in React that allows you to reuse stateful logic across multiple components. It is a way to extract common logic from components and encapsulate it in a reusable function. Custom hooks are a powerful tool that can help you write cleaner, more reusable, and more testable code in React.",
+    "author": "sohag"
+  }
+]
