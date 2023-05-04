@@ -9,7 +9,7 @@ const recipes = require('./data/recipesData.json')
 const bannerContent = require('./data/bannerData.json')
 const faqs = require('./data/faqs.json')
 app.get('/', (req,res)=>{
-    res.send(chefs)
+    res.send('server is running')
 })
 app.get('/chefs', (req, res)=>{
     res.send(chefs)
