@@ -4,7 +4,7 @@
     "chefName": "Shanaz Parvin",
     "yearsOfExperience": 6,
     "chefPhoto": "https://i.ibb.co/SX5DBWj/chef8.jpg",
-    "numberOfRecipes": 5,
+    "numberOfRecipes": 4,
     "likes": 750,
     "shortBio": "Shanaz Parvin is a renowned Bangladeshi chef with over 12 years of experience. She is known for her innovative and delicious recipes.",
     "chefId": 1
@@ -14,7 +14,7 @@
     "chefName": "Mizanur Rahman",
     "yearsOfExperience": 15,
     "chefPhoto": "https://i.ibb.co/0y4YD3j/chef7.jpg",
-    "numberOfRecipes": 45,
+    "numberOfRecipes": 4,
     "likes": 900,
     "shortBio": "Mizanur Rahman is a well-known Bangladeshi chef with 15 years of experience in the industry. He is an expert in traditional Bangladeshi cuisine.",
     "chefId": 2
@@ -24,7 +24,7 @@
     "chefName": "Taslima Aktar",
     "yearsOfExperience": 10,
     "chefPhoto": "https://i.ibb.co/Th7pwF4/chef5.jpg",
-    "numberOfRecipes": 15,
+    "numberOfRecipes": 4,
     "likes": 600,
     "shortBio": "Taslima Aktar is a talented Bangladeshi chef with 10 years of experience. She is known for her fusion cuisine that combines elements of Bangladeshi and international cooking.",
     "chefId": 3
@@ -34,7 +34,7 @@
     "chefName": "Mahmudul Hasan",
     "yearsOfExperience": 8,
     "chefPhoto": "https://i.ibb.co/Xs4SnB8/chef9.jpg",
-    "numberOfRecipes": 25,
+    "numberOfRecipes": 4,
     "likes": 400,
     "shortBio": "Mahmudul Hasan is a young and dynamic Bangladeshi chef with 8 years of experience. He is known for his creative and innovative approach to cooking.",
     "chefId": 4
@@ -44,7 +44,7 @@
     "chefName": "Farzana Rahman",
     "yearsOfExperience": 20,
     "chefPhoto": "https://i.ibb.co/mt6R4jr/chef1.webp",
-    "numberOfRecipes": 50,
+    "numberOfRecipes": 4,
     "likes": 1200,
     "shortBio": "Farzana Rahman is a highly experienced Bangladeshi chef with over 20 years of experience. She is an expert in traditional Bangladeshi cooking.",
     "chefId": 5
@@ -54,7 +54,7 @@
     "chefName": "Shafiqul Islam",
     "yearsOfExperience": 13,
     "chefPhoto": "https://i.ibb.co/nnbWYLB/chef6.jpg",
-    "numberOfRecipes": 40,
+    "numberOfRecipes": 4,
     "likes": 800,
     "shortBio": "Shafiqul Islam is a well-known Bangladeshi chef with 13 years of experience in the industry. He is an expert in seafood and grilled dishes.",
     "chefId": 6
@@ -64,7 +64,7 @@
     "chefName": "Alom Mia",
     "yearsOfExperience": 20,
     "chefPhoto": "https://i.ibb.co/ZdWJTVb/chef4.jpg",
-    "numberOfRecipes": 20,
+    "numberOfRecipes": 4,
     "likes": 1300,
     "shortBio": "Alom Mia is a highly experienced Bangladeshi chef with over 20 years of experience. She is an expert in traditional Bangladeshi cooking.",
     "chefId": 7
@@ -74,7 +74,7 @@
     "chefName": "Rubina Rahman",
     "yearsOfExperience": 20,
     "chefPhoto": "https://i.ibb.co/gdWVBXb/chef2.jpg",
-    "numberOfRecipes": 10,
+    "numberOfRecipes": 4,
     "likes": 1200,
     "shortBio": "Rubina Rahman is a highly experienced Bangladeshi chef with over 20 years of experience. She is an expert in traditional Bangladeshi cooking.",
     "chefId": 8
@@ -84,7 +84,7 @@
     "chefName": "Khairul Khondokar",
     "yearsOfExperience": 15,
     "chefPhoto": "https://i.ibb.co/64jcxW2/chef3.jpg",
-    "numberOfRecipes": 45,
+    "numberOfRecipes": 4,
     "likes": 900,
     "shortBio": "Khairul Khondokar is a well-known Bangladeshi chef with 15 years of experience in the industry. He is an expert in traditional Bangladeshi cuisine.",
     "chefId": 9
